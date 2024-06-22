@@ -39,7 +39,7 @@ function isUserInputValid(input) {
     }
     return true;
 }
-//UI
+//UI -
 function errorManagement(errorText) {
     console.log(errorText);
 }
