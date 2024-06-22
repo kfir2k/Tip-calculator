@@ -1,0 +1,18 @@
+input {
+
+    /* max-width: 500em; */
+
+}
+
+.userinputarea {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.result {
+    text-align: center;
+    display: block;
+}
